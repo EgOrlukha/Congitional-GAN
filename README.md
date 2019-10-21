@@ -1,5 +1,6 @@
 # Congitional-GAN
-Conditional GAN trained to create a car images of size 36x36
+### Conditional GAN trained to create a car images of size 36x36
+##### (scientific paper about cGANs is in file **Paper.pdf**)
 
 * Input dataset is in **"Input_car_train"** path.
 * All the code is contained in the Jupyter-notebook file **"cGAN_cars.ipynb"**
